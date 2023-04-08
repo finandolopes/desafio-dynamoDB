@@ -22,8 +22,3 @@ O diretório conta com todos os scripts utilizados para criação de tabela, ins
 
 Além dos scripts, o diretório conta também com alguns arquivos JSON para facilitar a inserção de dados e consulta. Explore o projeto à vontade :+1:
 
-## :construction_worker: Autor
-
-| :technologist: Desenvolvedor |:globe_with_meridians: Links Úteis|
-|-----------------------------:|----------------------------------|
-|<p align="center"><img src="https://avatars.githubusercontent.com/u/13790608?v=4" width=115></br><sub>Jhansen Barreto</sub></p>|<ul><li><a href="https://github.com/jhansenbarreto?tab=repositories">GitHub</a></li><li><a href="https://br.linkedin.com/in/jhansen-c-barreto">LinkedIn</a></li><li><a href="https://www.instagram.com/jhansenbarreto/">Instagram</a></li></ul>|
